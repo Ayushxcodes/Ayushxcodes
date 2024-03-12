@@ -99,7 +99,7 @@
 
 <br/>
 
-<a href="https://www.twitter.com/_hayy_Ayush" target="_blank" rel="noreferrer"><img
+<a href="https://twitter.com/crimsonking989" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Ayushxcodes?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.github.com/Ayushxcodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ayushxcodes?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
