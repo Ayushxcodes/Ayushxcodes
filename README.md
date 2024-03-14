@@ -76,7 +76,7 @@
 </a>
 
 <a href="https://github.com/Ayushxcodes">
-        <img alt="Ayushkrishna pandey streak" src="https://readme-stats.warengonzaga.com/api/top-langs?username=Ayushxcodes&layout=compact&theme=radical" width="400px"/>
+      <img alt="Ayushkrishna pandey streak" src="https://readme-stats.warengonzaga.com/api/top-langs?username=Ayushxcodes&layout=compact&theme=radical" width="400px"/>
 </a>
 </p>
 
